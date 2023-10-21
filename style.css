@@ -1,0 +1,16 @@
+#mycanvas {
+    background-color: rgb(255, 255, 255);
+    border-width : 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+input {
+    margin-right: 50px;
+
+}
+
+body {
+    text-align: center;
+    background-image:url("bg1.jpg");
+}
